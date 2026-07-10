@@ -8,10 +8,10 @@
 
 [![Python](https://img.shields.io/badge/Python-3.6+-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/CrazyXploit/ip-info-script.svg)](https://github.com/CrazyXploit/ip-info-script/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/CrazyXploit/ip-info-script.svg)](https://github.com/CrazyXploit/ip-info-script/network)
+[![GitHub stars](https://img.shields.io/ github/stars/CrazyXploit/ip-info.svg)](https://github.com/CrazyXploit/ip-info/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/CrazyXploit/ip-info.svg)](https://github.com/CrazyXploit/ip-info/network)
 [![Made with Termux](https://img.shields.io/badge/Made%20with-Termux-black.svg)](https://termux.com/)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/CrazyXploit/ip-info-script/graphs/commit-activity)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/CrazyXploit/ip-info/graphs/commit-activity)
 
 **No API Keys • No Signup • Completely Free**
 
@@ -137,8 +137,8 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/CrazyXploit/ip-info-script.git
-cd ip-info-script
+git clone https://github.com/CrazyXploit/ip-info.git
+cd ip-info
 
 # Run the script
 python3 main.py
@@ -174,8 +174,8 @@ pkg update && pkg upgrade -y
 pkg install python git -y
 
 # Clone and run
-git clone https://github.com/CrazyXploit/ip-info-script.git
-cd ip-info-script
+git clone https://github.com/CrazyXploit/ip-info.git
+cd ip-info
 python3 main.py
 ```
 
@@ -188,8 +188,8 @@ sudo apt-get install python3 git  # Ubuntu/Debian
 brew install python3 git  # macOS
 
 # Clone and run
-git clone https://github.com/CrazyXploit/ip-info-script.git
-cd ip-info-script
+git clone https://github.com/CrazyXploit/ip-info.git
+cd ip-info
 python3 main.py
 ```
 
@@ -197,8 +197,8 @@ python3 main.py
 
 ```bash
 # Using WSL or Git Bash
-git clone https://github.com/CrazyXploit/ip-info-script.git
-cd ip-info-script
+git clone https://github.com/CrazyXploit/ip-info.git
+cd ip-info
 python main.py
 ```
 
@@ -281,8 +281,6 @@ Project Structure
 ip-info-script/
 ├── main.py          # Main script
 ├── README.md        # This file
-├── requirements.txt # Dependencies (none required)
-└── .gitignore       # Git ignore rules
 ```
 
 Dependencies
@@ -374,13 +372,13 @@ CrazyXploit (k1xtreme)
 
 If you find this tool useful, please consider giving it a star ⭐ on GitHub!
 
-https://api.star-history.com/svg?repos=CrazyXploit/ip-info-script&type=Date
+https://api.star-history.com/svg?repos=CrazyXploit/ip-info&type=Date
 
 ---
 
 <div align="center">
 
-Made with ❤️ by k1xtreme
+Made with ❤️ by k1xtreme / Claude 
 
 Last Updated: July 2026
 
